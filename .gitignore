@@ -242,3 +242,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/WindowsFormsApplication1/WindowsFormsApplication1/Properties/Resources.Designer.cs
